@@ -1,0 +1,2 @@
+obj-m += ktz8866_rust.o
+ktz8866_rust-y := backlight_shim.o module.o

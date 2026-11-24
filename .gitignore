@@ -1,2 +1,10 @@
 /target/
 /NOTES.local.md
+
+/crates/ktz8866-module/*.o
+/crates/ktz8866-module/*.ko
+/crates/ktz8866-module/*.mod
+/crates/ktz8866-module/*.mod.c
+/crates/ktz8866-module/.*.cmd
+/crates/ktz8866-module/Module.symvers
+/crates/ktz8866-module/modules.order

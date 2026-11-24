@@ -1,0 +1,10 @@
+pub(crate) const BRIGHTNESS_LSB: u8 = 0x04;
+pub(crate) const BRIGHTNESS_MSB: u8 = 0x05;
+pub(crate) const LED_ENABLE: u8 = 0x08;
+pub(crate) const LED_ENABLE_BIT: u8 = 1 << 6;
+pub(crate) const LED_SINK_MASK: u8 = 0x3f;
+pub(crate) const LED_CONFIG_1: u8 = 0x02;
+pub(crate) const LED_CONFIG_2: u8 = 0x03;
+pub(crate) const LED_OPTION_2: u8 = 0x11;
+pub(crate) const DIMMING: u8 = 0x14;
+pub(crate) const PWM_RAMP: u8 = 0x15;

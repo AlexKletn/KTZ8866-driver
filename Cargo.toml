@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["crates/ktz8866-driver"]
+members = ["crates/ktz8866-driver", "crates/ktz8866-module"]
 
 [workspace.package]
 edition = "2024"

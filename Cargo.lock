@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "ktz8866-driver"
 version = "0.1.0"
+
+[[package]]
+name = "ktz8866-module"
+version = "0.1.0"
